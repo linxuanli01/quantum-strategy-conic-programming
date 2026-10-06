@@ -1,9 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the accompanying manuscript."
+message: "If you use this software, please cite both the software and the accompanying manuscript."
 type: software
 title: "Quantum Strategy Conic Programming"
-version: 0.2.0
-date-released: 2026-10-06
+version: "0.2.0"
+date-released: "2026-10-06"
+license: MIT
+repository-code: "https://github.com/linxuanli01/quantum-strategy-conic-programming"
+url: "https://github.com/linxuanli01/quantum-strategy-conic-programming"
+
 authors:
   - family-names: Li
     given-names: Linxuan
@@ -15,6 +19,7 @@ authors:
     given-names: Yuxiang
   - family-names: Yuan
     given-names: Haidong
+
 preferred-citation:
   type: article
   title: "Optimal Strategies for Multi-parameter Quantum Metrology"
@@ -29,3 +34,6 @@ preferred-citation:
       given-names: Yuxiang
     - family-names: Yuan
       given-names: Haidong
+  year: 2026
+  doi: "10.48550/arXiv.2608.01114"
+  url: "https://arxiv.org/abs/2608.01114"
