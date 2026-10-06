@@ -17,6 +17,9 @@ independent intermediate controls or a homogeneous-control ansatz.
 The available objectives are the Nagaoka–Hayashi bound (`NHB`), the SLD
 quantum Cramér–Rao bound (`SLD`), and the Holevo bound (`Holevo`).
 
+The accompanying manuscript is available on
+[arXiv:2608.01114](https://arxiv.org/abs/2608.01114).
+
 ## Scope
 
 This release contains the implementation used for two calls to a qubit
@@ -184,12 +187,33 @@ validation. They do not reproduce the full numerical study from the paper.
 
 ## Citation
 
-If you use this code, cite the accompanying manuscript. Citation metadata is
-provided in [`CITATION.cff`](CITATION.cff) and should be updated with the DOI
-and publication details once they are available.
+If you use this software, please cite the accompanying manuscript:
+
+> Linxuan Li, Zihao Hu, Longyun Chen, Yuxiang Yang, and Haidong Yuan,
+> “Optimal Strategies for Multi-parameter Quantum Metrology,”
+> arXiv:2608.01114 [quant-ph] (2026).
+
+The manuscript is available at:
+
+https://doi.org/10.48550/arXiv.2608.01114
+
+The repository also provides citation metadata in
+[`CITATION.cff`](CITATION.cff).
+
+```bibtex
+@misc{li2026optimal,
+  title         = {Optimal Strategies for Multi-parameter Quantum Metrology},
+  author        = {Li, Linxuan and Hu, Zihao and Chen, Longyun
+                   and Yang, Yuxiang and Yuan, Haidong},
+  year          = {2026},
+  eprint        = {2608.01114},
+  archivePrefix = {arXiv},
+  primaryClass  = {quant-ph},
+  doi           = {10.48550/arXiv.2608.01114},
+  url           = {https://arxiv.org/abs/2608.01114}
+}
 
 ## License
 
-No public-use license has yet been selected. The included `LICENSE` file keeps
-the authors' rights reserved. Replace it with the license chosen by all authors
-before distributing the repository under open-source terms.
+This project is distributed under the MIT License. See
+[`LICENSE`](LICENSE) for the full license text.
