@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+type: software
+title: "Quantum Strategy Conic Programming"
+version: 0.2.0
+date-released: 2026-10-06
+authors:
+  - family-names: Li
+    given-names: Linxuan
+  - family-names: Hu
+    given-names: Zihao
+  - family-names: Chen
+    given-names: Longyun
+  - family-names: Yang
+    given-names: Yuxiang
+  - family-names: Yuan
+    given-names: Haidong
+preferred-citation:
+  type: article
+  title: "Optimal Strategies for Multi-parameter Quantum Metrology"
+  authors:
+    - family-names: Li
+      given-names: Linxuan
+    - family-names: Hu
+      given-names: Zihao
+    - family-names: Chen
+      given-names: Longyun
+    - family-names: Yang
+      given-names: Yuxiang
+    - family-names: Yuan
+      given-names: Haidong
