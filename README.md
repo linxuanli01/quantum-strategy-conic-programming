@@ -212,6 +212,7 @@ The repository also provides citation metadata in
   doi           = {10.48550/arXiv.2608.01114},
   url           = {https://arxiv.org/abs/2608.01114}
 }
+```
 
 ## License
 
